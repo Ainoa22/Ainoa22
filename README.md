@@ -1,5 +1,5 @@
 Olá, eu sou Ainoã de Oliveira, seja bem vindo(a) ao meu perfil! 👋<br>
-🌍 Sou de Guarulhos-São Paulo.<br>
+🌍 Sou de Guarulhos - São Paulo.<br>
 🚀 Atualmente estou trabalhando na área de confecção.<br>
 🧠 Estou aprendendo Javascript Intermediario.
 
