@@ -16,5 +16,5 @@ Olá, eu sou Ainoã de Oliveira, seja bem vindo(a) ao meu perfil! 👋<br>
 
 <a href="https://ainoa22.github.io/Formulario/" rel="nofollow">Formulario</a> - <a href="https://github.com/Ainoa22/Formulario">Repositório</a>
   
- <a href="https://ainoa22.github.io/Lampada/" rel="nofollow">Landing page responsiva</a> - <a href="https://github.com/Ainoa22/Landing-page">Repositório</a> 
+ <a href="https://ainoa22.github.io/Lampada/" rel="nofollow">Landing page responsiva</a> - <a href="https://github.com/Ainoa22/landing-page-responsiva">Repositório</a> 
   
