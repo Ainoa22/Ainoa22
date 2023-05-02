@@ -1,4 +1,4 @@
-Olá, eu sou Ainoã de Oliveira, seja bem vindo(a) ao meu perfil! 👋<br>
+    Olá, eu sou Ainoã de Oliveira, seja bem vindo(a) ao meu perfil! 👋
 🌍 Sou de Guarulhos - São Paulo.<br>
 🚀 Atualmente estou trabalhando na área de confecção.<br>
 <i>🧠 Estou aprendendo Javascript Intermediario.
@@ -9,7 +9,7 @@ Olá, eu sou Ainoã de Oliveira, seja bem vindo(a) ao meu perfil! 👋<br>
 ✒️ 📖 💻 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos:
 
 <a href="https://ainoa22.github.io/Lampada/" rel="nofollow">Lâmpada</a> - <a href="https://github.com/Ainoa22/Lampada">Repositório</a>
-
+  
 <a href="https://ainoa22.github.io/Landing-page/" rel="nofollow">Landing page</a> - <a href="https://github.com/Ainoa22/Landing-page">Repositório</a>
 
 <a href="https://ainoa22.github.io/Ola-Mundo/" rel="nofollow">Olá Mundo</a> - <a href="https://github.com/Ainoa22/Ola-Mundo">Repositório</a>
