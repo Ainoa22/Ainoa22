@@ -1,4 +1,4 @@
-   <h2>𝑶𝒍𝒂́, 𝒆𝒖 𝒔𝒐𝒖 𝑨𝒊𝒏𝒐𝒂̃ 𝒅𝒆 𝑶𝒍𝒊𝒗𝒆𝒊𝒓𝒂,👋</h2>
+   <h1>𝑶𝒍𝒂́, 𝒆𝒖 𝒔𝒐𝒖 𝑨𝒊𝒏𝒐𝒂̃ 𝒅𝒆 𝑶𝒍𝒊𝒗𝒆𝒊𝒓𝒂,👋</h1>
    <div>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F73F8B&width=435&lines=seja+bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div
