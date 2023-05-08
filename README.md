@@ -1,5 +1,7 @@
    <h3>𝑶𝒍𝒂́, 𝒆𝒖 𝒔𝒐𝒖 𝑨𝒊𝒏𝒐𝒂̃ 𝒅𝒆 𝑶𝒍𝒊𝒗𝒆𝒊𝒓𝒂, 𝒔𝒆𝒋𝒂 𝒃𝒆𝒎 𝒗𝒊𝒏𝒅𝒐(𝒂) 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍! 👋</h3>
-    <h2 dir="auto"></h2>
+   
+##
+
 🌍 Sou de Guarulhos - São Paulo.<br>
 🚀 Atualmente estou trabalhando na área de confecção.<br>
 <i>🧠 Estou aprendendo Javascript Intermediario.<br><br>
