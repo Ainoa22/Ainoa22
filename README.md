@@ -12,12 +12,12 @@
 <img height="140em" src="https://camo.githubusercontent.com/acb4ad3659622203bf3dc21040a6b9e161bc90a965feb128e654ffc71ba18e0e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68656c656e612d4c756a616e2d476f6d6573266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d68696768636f6e7472617374" style="max-width: 100%;"><br><br>
    
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JS"  height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS"  height="30" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bootstrap" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Git" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/fluency/512/github.png">
+  <img align="center" alt="Git" height="30" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40"  src="https://img.icons8.com/fluency/512/github.png">
   <img align="center" alt="VsCode " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
    
