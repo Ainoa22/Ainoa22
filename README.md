@@ -11,9 +11,9 @@
 🎓 Cursando Desenvolvimento Web Full Stack.<br><br>
    
  <div>
-     <a href="https://github.com/Ainoa22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ainoa22&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainoa22&layout=compact&langs_count=7&theme=cobalt"/>
+   <a href="[https://github.com/Ainoa22](https://github.com/Ainoa22"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ainoa22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainoa22&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
    
 <div style="display: inline_block"><br>
